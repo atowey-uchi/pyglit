@@ -1,2 +1,2 @@
 # pyglit
-glitr, but for pyhton!
+glitr, but for python!
